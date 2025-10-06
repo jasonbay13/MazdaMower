@@ -6,4 +6,4 @@ My sensor is mounted where it sees a high signal somewhere near BDC on the compr
 
 
 Always open to suggestions or improvements, I'd like to solve the wasted spark but the engine is not an OHV or OHC so I have no access to the valves - either need to detect in code the slightly slower compression stroke (if it can even be done effectively) or add a sensor the the exhaust or intake for air pressure.
-It would be a fun project to add fuel injection to this, then I could get it to idle perfectly at a very low RPM (under 400 RPM, starter works at 600 RPM).
+It would be a fun project to add fuel injection to this, then I could get it to idle perfectly at a very low RPM (under 400 RPM, starter works at 600 RPM). AND adding an O2 sensor to the fuel injector could allow easy use of multiple different fuels - e85 or mash whatever laying around together.
